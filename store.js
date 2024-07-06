@@ -1248,11 +1248,11 @@ NV.store("Crystal", [
     view: `\nATK +10%\nMATK +10%\nReduksi DMG (Bowling) +20%\nReduksi DMG (Peluru) +20%\nAggro -40%`,
   }),
   _map({
-    code: 180,
-    link: 226,
+    code: 226,
+    link: 331,
     type: "UPGRADE",
-    name: "Potum Pahlawan III",
-    view: `\nMaxHP +12%\nPelindung Fraksional +14%\nAkurasi +16%\nAggro +18%`,
+    name: "Potum Pahlawan II",
+    view: `\nMaxHP +11%\nPelindung Fraksional +12%\nAkurasi +13%\nAggro +14%`,
   }),
   _map({
     code: 181,
@@ -1570,11 +1570,11 @@ NV.store("Crystal", [
     view: `\nMaxHP +4000\nCritical Damage +4\nDaya Jarak Dekat +2%`,
   }),
   _map({
-    code: 226,
-    link: 331,
+    code: 180,
+    link: 226,
     type: "UPGRADE",
-    name: "Potum Pahlawan II",
-    view: `\nMaxHP +11%\nPelindung Fraksional +12%\nAkurasi +13%\nAggro +14%`,
+    name: "Potum Pahlawan III",
+    view: `\nMaxHP +12%\nPelindung Fraksional +14%\nAkurasi +16%\nAggro +18%`,
   }),
   _map({
     code: 227,
